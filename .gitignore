@@ -1,0 +1,6 @@
+#ignore 
+
+#virtual environment
+venv/
+
+# sensitive information
