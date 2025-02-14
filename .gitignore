@@ -4,3 +4,4 @@
 venv/
 
 # sensitive information
+.env
